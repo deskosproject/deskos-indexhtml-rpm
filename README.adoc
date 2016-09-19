@@ -1,0 +1,3 @@
+= DeskOS: deskos-indexhtml RPM
+
+This is the _deskos-indexhtml_ RPM package for the *DeskOS* operating system.
