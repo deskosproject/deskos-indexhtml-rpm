@@ -1,7 +1,7 @@
 Name:           deskos-indexhtml
 Summary:        Browser default start page for DeskOS
 Version:        7
-Release:        0.1.0%{?dist}
+Release:        0.1.1%{?dist}
 
 License:        GPLv3+
 Group:          Documentation
@@ -37,5 +37,8 @@ popd
 %{_defaultdocdir}/HTML/*
 
 %changelog
+* Mon Sep 19 2016 Ricardo Arguello <rarguello@deskosproject.org> - 7-0.1.1
+- Updated links
+
 * Sun Sep 18 2016 Ricardo Arguello <rarguello@deskosproject.org> - 7-0.1.0
 - Initial DeskOS branding
